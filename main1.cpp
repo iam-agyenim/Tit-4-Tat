@@ -1,11 +1,5 @@
 /*
-
-Name :  RICHMOND AGYENIM-BOATENG
-DATE : #RD DECEMBER, 2002
-CPE ASSIGNMENT
-
-
-
+This C++ project implements the Tit for Tat strategy, a well-known strategy in game theory and the Prisoner's Dilemma. The Tit for Tat strategy involves a player mimicking the opponent's previous action: if the opponent cooperated in the last round, the player will cooperate in the current round, and if the opponent defected, the player will defect.
 */
 #include <iostream>
 #include <cstdlib>
